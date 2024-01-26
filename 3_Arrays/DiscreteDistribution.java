@@ -14,7 +14,7 @@ public class DiscreteDistribution {
         }
 
         for (int i = 0; i < m; i++) {
-            int randomN = (int) (cumulativeSums[n] * Math.random()) - 1;
+            int randomN = (int) (cumulativeSums[n] * Math.random());
 
             for (int j = 0; j < n; j++) {
                 if (cumulativeSums[j+1] > randomN) {
