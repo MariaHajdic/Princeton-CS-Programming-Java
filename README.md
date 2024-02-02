@@ -16,7 +16,6 @@
 
 ## _Notes_
 The file ([<ins>stdlib.jar</ins>](https://introcs.cs.princeton.edu/java/stdlib/)) bundles together all of the course's standard libraries into one file.
-[<ins>How to use</ins>](https://lift.cs.princeton.edu/java/mac/](https://introcs.cs.princeton.edu/java/stdlib/ )
 
 
 ## _༺✧ Results ✧༻_
